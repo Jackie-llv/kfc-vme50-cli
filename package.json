@@ -1,12 +1,16 @@
 {
   "name": "kfc-vme50-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "bin": "/bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node /bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jackie-llv/kfc-vme50-cli.git"
   },
   "keywords": [],
   "author": "",
